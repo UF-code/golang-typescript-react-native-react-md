@@ -1,10 +1,10 @@
 # Sharping Skills
 
 ## Web Frontend
-> TypeScript, React, Redux, Axios, Tailwindcss
+> TypeScript, React, Vite, Redux, Axios, Tailwindcss
 
 ## Mobile Frontend
-> TypeScript, React Native, Redux, Axios, Tailwindcss
+> TypeScript, React Native, Expo-Cli, Redux, Axios, Tailwindcss
 
 ## Backend
 > Golang, Gin, Gorm, PostgreSQL, Postman
