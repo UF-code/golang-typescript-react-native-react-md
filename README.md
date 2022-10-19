@@ -11,3 +11,6 @@
 
 ## Backend Visual Representation
 https://user-images.githubusercontent.com/67328993/194365677-30ae8250-7367-4808-86fb-4086200d8458.mov
+
+## Web Visual Representation
+https://user-images.githubusercontent.com/67328993/196700183-13e32e1f-bd77-418b-aac5-1d18b90c7e3a.mov
